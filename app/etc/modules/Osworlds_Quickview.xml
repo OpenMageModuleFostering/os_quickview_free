@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>	
+    <modules>    
+        <Osworlds_Quickview>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Osworlds_Quickview>
+    </modules>
+</config>
