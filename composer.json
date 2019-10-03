@@ -1,18 +1,5 @@
 {
-    "name": "OpenMageModuleFostering/Os_QuickView_Free",
-    "type": "magento-module",
-    "license": "OSL-v3.0",
-    "homepage": "",
-    "description": "Quick View help your customers to be able to make purchases quickly and easily without wasting time and risking to leave due to slow page loading. 
-Your customers can see details of the product, including images, options, and Add to Cart – All from the category page. 
-Replace standard Magento image zoom with flexible javacript zoom widget too.",
-    "authors": [
-    {
-        "name": "Osworlds",
-        "email": "osworldstore@gmail.com"
-    }
-],
-    "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+    "keywords": [
+        "openmage-module"
+    ]
 }
